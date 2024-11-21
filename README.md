@@ -1,0 +1,1 @@
+A simple Hangman game that chooses a word from the dictionary text file, and has the user guess. Each round where the letter is incorrect, it is placed in the wrong letters section and the computer generates the 'hangman'. When a letter is guessed correctly, a message will be prompt to congradulate the winner. Otherwise, a message will pop indicating the hava lost.
